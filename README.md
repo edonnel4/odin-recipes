@@ -1,1 +1,1 @@
-# odin-recipes
+This project, "odin-recipes," is part of the Odin Project's fundamentals course. It serves as a basic introduction to building a simple recipe website using HTML and CSS.
